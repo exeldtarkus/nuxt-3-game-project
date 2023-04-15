@@ -25,7 +25,7 @@ export default {
       games: []
     }
   },
-  // created() {
+  // created() { // uncomment this for sample
   //   this.games = dataExample;
   // }
   async created() {
@@ -35,35 +35,4 @@ export default {
   }
 }
 
-
-
-// export default {
-//   async fetch() {
-//     const response = await fetch('https://jsonplaceholder.typicode.com/games')
-//     console.log('response :>> ', response);
-//     const result = await response.json()
-//     return result;
-//   },
-//   data() {
-//     return {
-//       cards: [
-//         {
-//           title: 'dsaffsad',
-//           image: 'https://via.placeholder.com/300x200.png?text=Card+1',
-//           description: 'This is the description for Card 1'
-//         },
-//         {
-//           title: 'Card 2',
-//           image: 'https://via.placeholder.com/300x200.png?text=Card+2',
-//           description: 'This is the description for Card 2'
-//         },
-//         {
-//           title: 'Card 3',
-//           image: 'https://via.placeholder.com/300x200.png?text=Card+3',
-//           description: 'This is the description for Card 3'
-//         }
-//       ]
-//     }
-//   }
-// }
 </script>

@@ -1,6 +1,8 @@
 <template>
     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-        <img class="w-full" src="https://tecdn.b-cdn.net/img/new/standard/nature/186.jpg" alt="Sunset in the mountains">
+        <!-- uncomment this for sample -->
+        <!-- <img class="w-full" src="https://tecdn.b-cdn.net/img/new/standard/nature/186.jpg" alt="Sunset in the mountains">  -->
+        <img class="w-full" :src=image alt="Sunset in the mountains"> 
         <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">{{ title }}</div>
             <p class="text-gray-700 text-base text-lg truncate">{{ description }} </p>
@@ -83,7 +85,7 @@ export default {
       detailGame: {},
     }
   },
-//   created() {
+//   created() { // uncomment this for sample
 //     this.detailGame = detailGameExample;
 //   },
   async created() {
