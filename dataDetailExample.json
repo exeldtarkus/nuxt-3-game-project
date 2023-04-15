@@ -1,0 +1,36 @@
+{
+    "id": 1136,
+    "title": "Overwatch 2",
+    "thumbnail": "https://www.mmobomb.com/g/1136/thumbnail.jpg",
+    "status": "Live",
+    "short_description": "Big changes come to the Overwatch formula in this sequel...and so does PvE content, eventually.",
+    "description": "<p style=\"text-align: justify;\">Overwatch has been the big dog on the hero shooter block for quite some time now and it was only a matter of time before it received a follow-up title. Overwatch 2 tries to change the formula quite a bit though. Dropping the original's 6v6 gameplay in favor of 5v5 shooting action, converting to a free-to-play model, and even the eventual inclusion of PvE, story-based content in the future are just some of the differences between the \"OG\" Overwatch and this new sequel.</p>\r\n<p style=\"text-align: justify;\">Gone are the loot boxes, replaced instead with a battle pass system. With new competitive changes, new maps, new heroes, and more being added on a seasonal basis, Blizzard hopes this new iteration of Overwatch will be more exciting and draw in more players than the original. </p>\r\n<p style=\"text-align: justify;\">Blast your way across multiple PvP modes and maps to secure victory using heroes that have unique abilities and character traits. Hold the point, move the objective, and shoot your way to a win. </p>\r\n<p style=\"text-align: justify;\">(<strong>NOTE</strong>: With the launch of Overwatch 2, the original Overwatch is no longer available.)</p>",
+    "game_url": "https://www.mmobomb.com/open/overwatch-2",
+    "genre": "Shooter",
+    "platform": "Windows",
+    "publisher": "Activision Blizzard King",
+    "developer": "Blizzard Entertainment",
+    "release_date": "2022-10-04",
+    "profile_url": "https://www.mmobomb.com/overwatch-2",
+    "minimum_system_requirements": {
+        "os": "Windows 10 64-bit (latest Service Pack)",
+        "processor": "Intel Core i3 or AMD Phenom X3 8650",
+        "memory": "6 GB RAM",
+        "graphics": "NVIDIA GeForce GTX 600 series or AMD Radeon HD 7000 series",
+        "storage": "50 GB available hard drive space"
+    },
+    "screenshots": [
+        {
+            "id": 1346,
+            "image": "https://www.mmobomb.com/g/1136/overwatch-2-1.jpg"
+        },
+        {
+            "id": 1347,
+            "image": "https://www.mmobomb.com/g/1136/overwatch-2-2.jpg"
+        },
+        {
+            "id": 1348,
+            "image": "https://www.mmobomb.com/g/1136/overwatch-2-3.jpg"
+        }
+    ]
+}
